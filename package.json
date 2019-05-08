@@ -1,0 +1,23 @@
+{
+  "name": "purejs4examples",
+  "version": "0.0.1",
+  "author": "taldy",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^2.1.1",
+    "file-loader": "^3.0.1",
+    "style-loader": "^0.23.1",
+    "ts-loader": "^5.4.5",
+    "typescript": "^3.4.5",
+    "url-loader": "^1.1.2"
+  },
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "moment": "^2.24.0"
+  },
+  "browserslist": [
+    ">0.25%, not dead"
+  ]
+}
