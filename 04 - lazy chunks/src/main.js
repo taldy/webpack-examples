@@ -1,4 +1,4 @@
-const button = document.querySelector('button');
+const button = document.querySelector('button#first');
 
 button.onclick = () => {
   import(/* webpackChunkName: "lazy" */ './lazy')
