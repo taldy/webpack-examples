@@ -1,6 +1,8 @@
 node_modules
 
-
+**/dist
+04 - lazy chunks/app.js
+04 - lazy chunks/lazy.app.js
 
 # Log files
 npm-debug.log*
